@@ -11,4 +11,5 @@ function zomg(increment) {
     x++;
   }
 
-  conso
+  console.log(x);
+}
